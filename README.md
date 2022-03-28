@@ -1,5 +1,5 @@
 <h1>Olá, me chamo Gustavo Ranieli Lemes</h1>
-- 🌱 Estou atualmente aprendendo para me tornar um desenvolvedor Full Stack
+<div>- 🌱 Estou atualmente aprendendo para me tornar um desenvolvedor Full Stack</div>
 - 📫 gustavo_raniele@hotmail.com
 
 ##
