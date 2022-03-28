@@ -1,7 +1,5 @@
-- 👋 Olá, me chamo Gustavo Ranieli Lemes
-- 👀 Estou Interessado em trabalhar com programação
-- 🌱 Estou atualmente aprendendo desenvolvimento Full Stack
-- 💞️ Procuro Colaborar em Desenvolvimento Web
+<h1>Olá, me chamo Gustavo Ranieli Lemes</h1>
+- 🌱 Estou atualmente aprendendo para me tornar um desenvolvedor Full Stack
 - 📫 gustavo_raniele@hotmail.com
 
 ##
