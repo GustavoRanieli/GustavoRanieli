@@ -1,8 +1,8 @@
 <h1>Olá, me chamo Gustavo Ranieli Lemes</h1>
-<div>- 🌱 Estou atualmente aprendendo para me tornar um desenvolvedor Full Stack</div>
-- 📫 gustavo_raniele@hotmail.com
-
-##
+<div> <h2>Olá Devs, aqui você vai encontrar um pouco da minha carreira, projetos e aulas que participei. Atualmente estou estudando React, Next.js, Node e outros</h2>
+  🖥️ - Desenvolvedor Web Junior na Show de Imagem<br>
+  📧 - gustavo_raniele@hotmail.com
+</div>
 
 <div align="center">
   <a href="https://github.com/GustavoRanieli">
