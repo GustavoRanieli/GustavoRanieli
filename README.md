@@ -1,15 +1,26 @@
 <h1>Olá, me chamo Gustavo Ranieli Lemes</h1>
-<div> <h2>Olá Devs, aqui você vai encontrar um pouco da minha carreira, projetos e aulas que participei. Atualmente estou estudando React e outros</h2>
-  <h3>
-    🖥️ - Desenvolvedor Web Junior na Show de Imagem<br>
+<div> <h4>Sou desenvolvedor Web no momento mas pretendo migrar para o Full Stack um dia! Moro em Sâo Paulo e estou apaixonado por interfaces no Front-End, garanto ser gente boa e estou disposto a ajudar qualquer coisa. 🧙</h4>
+    <img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/93204660/166619014-fb1d8ddf-8fce-4cf9-af23-12e80d2e03a9.gif" width="350" height="250" />
+  <h4>
+    💼 - Desenvolvedor Web Junior na Show de Imagem<br>
     📧 - gustavo_raniele@hotmail.com
-  </h3>  
+  </h4> 
+
+  <h3>📊 **Eu estava ocupado estudando:** </h3>
+  <h4>
+  React ⚛️ <br>
+  JavaScript 🖥 <br>
+  CorelDraw 🖥 <br>
+  </h4> 
+  <a href="https://www.buymeacoffee.com/agustavoarz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+⠀⠀⠀⠀⠀⠀⠀  
 </div>
 
-<div align="center">
+## ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<div align="left">
   <a href="https://github.com/GustavoRanieli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoRanieli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRanieli&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GustavoRanieli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRanieli&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   ##
@@ -19,7 +30,18 @@
   <img align="center" alt="Gusta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gusta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gusta-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Gusta-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+  <img align="center" alt="Gusta-Premier" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+  <img align="center" alt="Gusta-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+  <img align="center" alt="Gusta-CorelDraw" height="30" width="40" src="https://user-images.githubusercontent.com/93204660/166623005-5314c646-2734-4509-892f-7b652be06717.svg" />
+
+
+
+
+
 </div>
+
   
 ## 
   
