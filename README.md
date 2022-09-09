@@ -6,12 +6,12 @@
     📧 - gustavo_raniele@hotmail.com
   </h4> 
 
-  <h3>📊 **Eu estava ocupado estudando:** </h3>
-  <h4>
+  <h3 style="margin-left:10px">📊 **Eu estava ocupado estudando:** </h3>
+  <h4 style="margin-left:10px">
   Node ⚛️ <br>
   JavaScript 🖥 <br>
   </h4> 
-  <a href="https://www.buymeacoffee.com/agustavoarz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  <a href="https://www.buymeacoffee.com/agustavoarz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" style="margin-left:10px"></a>
 ⠀⠀⠀⠀⠀⠀⠀  
 </div>
 
