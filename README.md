@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Gustavo Ranieli Lemes</h1>
 <div> <h4>Sou desenvolvedor Web no momento mas pretendo migrar para o Full Stack um dia! Moro em Sâo Paulo e estou apaixonado por interfaces no Front-End, garanto ser gente boa e estou disposto a ajudar qualquer coisa. 🧙</h4>
-    <img align="left" style="margin-right:5px"  alt="GIF" src="https://user-images.githubusercontent.com/93204660/166619014-fb1d8ddf-8fce-4cf9-af23-12e80d2e03a9.gif" width="350" height="250" />
+    <img align="left" style="margin-right:20px"  alt="GIF" src="https://user-images.githubusercontent.com/93204660/166619014-fb1d8ddf-8fce-4cf9-af23-12e80d2e03a9.gif" width="350" height="250" />
   <h4>
     💼 - Desenvolvedor Web Junior na Show de Imagem<br>
     📧 - gustavo_raniele@hotmail.com
