@@ -76,6 +76,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gustavo-ranieli
     
 ## 
     
-<div>
+
   ![Snake animation](https://github.com/GustavoRanieli/GustavoRanieli/blob/output/github-contribution-grid-snake.svg)
-</div>
+
