@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <a href="www.linkedin.com/in/gustavo-ranieli-lemes-053793200" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/gustavo-ranieli-lemes-053793200/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="#" alt="WhatsApp">
@@ -50,7 +50,7 @@ Linguagens & Tecnologias: `JavaScript`, `NodeJs`, `AHK`, `PHP`,\
 Projetos em destaque: [OCR](), [Sílabas]()
 <br/>
 
-Por favor, encontre-me no [LinkedIn](www.linkedin.com/in/gustavo-ranieli-lemes-053793200) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gustavo-ranieli-lemes-053793200/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 </div>
 
 ##
