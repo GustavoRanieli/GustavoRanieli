@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Fala Dev! Costumam me chamar somente de Ranieli então fique a vontade. Busco me aperfeicoar como Dev FullStack focado em JavaScript,
+  Fala Devs! Costumam me chamar somente de Ranieli então fique a vontade. Busco me aperfeicoar como Dev FullStack focado em JavaScript,
    atualmente estou trabalhando como <strong>Auxiliar de programação</strong>.<br>
     Trabalhando atualmente na <strong>Show de Imagem.</strong> 
 </p>
@@ -26,7 +26,7 @@
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/gustav.ranieli/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
   <br>
   <a href="https://www.buymeacoffee.com/agustavoarz" target="_blank">
