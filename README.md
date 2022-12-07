@@ -19,17 +19,11 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
+  <a href="www.linkedin.com/in/gustavo-ranieli-lemes-053793200" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
@@ -44,23 +38,23 @@
     <strong>Experiência de trabalho</strong><br>
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fcgh9-1.fna.fbcdn.net/v/t39.30808-1/277672056_507576907464320_8682775633970126696_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-7&_nc_sid=c6021c&_nc_ohc=3r2hj4-qrUYAX_W4BnZ&_nc_ht=scontent.fcgh9-1.fna&oh=00_AfDTwRV1cPNkCEIB3HR_UiTV1JFNJwzHbg9f7Tr0mXQKhQ&oe=63955D62"/>](https://showdeimagem.com.br/)
 
 **Auxiliar de Programação** \
-[**ShowDeImagem**]() • Contrato \
+[**ShowDeImagem**](https://showdeimagem.com.br/) • Contrato \
 Linguagens & Tecnologias: `JavaScript`, `NodeJs`, `AHK`, `PHP`,\
-Projetos em destaque: [OCR](https://www.spacex.com/), [Sílabas](https://pt.wikipedia.org/wiki/Marte_(planeta))
+Projetos em destaque: [OCR](), [Sílabas]()
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](www.linkedin.com/in/gustavo-ranieli-lemes-053793200) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 </div>
 
 ##
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <div align="left">
   <a href="https://github.com/GustavoRanieli">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GustavoRanieli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRanieli&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoRanieli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRanieli&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ##
