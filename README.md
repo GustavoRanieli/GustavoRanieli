@@ -1,3 +1,4 @@
+<h1>Gustavo Ranieli Lemes</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
@@ -30,6 +31,9 @@
   <br>
   <a href="https://www.buymeacoffee.com/agustavoarz" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" style="margin-left:10px"></a>
+  
+  <a href="https://www.codewars.com/users/GustavoRanieli">
+    <img src="https://www.codewars.com/users/GustavoRanieli/badges/large"><a/>
 </p>
 
 ##
