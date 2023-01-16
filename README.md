@@ -42,7 +42,7 @@
     <strong>Experiência de trabalho</strong><br>
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fcgh9-1.fna.fbcdn.net/v/t39.30808-1/277672056_507576907464320_8682775633970126696_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-7&_nc_sid=c6021c&_nc_ohc=3r2hj4-qrUYAX_W4BnZ&_nc_ht=scontent.fcgh9-1.fna&oh=00_AfDTwRV1cPNkCEIB3HR_UiTV1JFNJwzHbg9f7Tr0mXQKhQ&oe=63955D62"/>](https://showdeimagem.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="show.jpg"/>](https://showdeimagem.com.br/)
 
 **Auxiliar de Programação** \
 [**ShowDeImagem**](https://showdeimagem.com.br/) • Contrato \
