@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Html, Css, JavaScript, MongoDb e AHK</strong>
+  🦄 Experiências: <strong> Html, Css, JavaScript, MongoDb e AHK</strong>
 </p>
 
 <p align="left">
