@@ -47,7 +47,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Auxiliar de Programação** \
 [**ShowDeImagem**](https://showdeimagem.com.br/) • Contrato \
 Linguagens & Tecnologias: `JavaScript`, `NodeJs`, `AHK`, `PHP`,\
-Projetos em destaque: [OCR](), [Sílabas]()
+Projetos em destaque: [OCR](http://kanbaninterativo.com.br/), [Sílabas]()
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gustavo-ranieli-lemes-053793200/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
