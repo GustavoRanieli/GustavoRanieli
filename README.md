@@ -4,7 +4,6 @@
 <p align="left"> 
   Fala Devs! Costumam me chamar somente de Ranieli então fique a vontade. Busco me aperfeicoar como Dev FullStack focado em JavaScript,
    atualmente estou trabalhando como <strong>Auxiliar de programação</strong>.<br>
-    Trabalhando atualmente na <strong>Show de Imagem.</strong> 
 </p>
 
 <p align="left">
